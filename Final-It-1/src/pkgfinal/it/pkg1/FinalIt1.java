@@ -13,6 +13,7 @@ public class FinalIt1 {
     {
         System.out.println("Hello World!");
         //adding a comment for testing purposes
+        System.out.println("Pizza Day!");
     }
     
 }
